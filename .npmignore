@@ -1,0 +1,6 @@
+*.tgz
+spec
+service-*
+package/
+!.npmignore
+node_modules/
